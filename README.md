@@ -105,4 +105,4 @@ Title: Homework — Lesson 1 — Calculator — <Ф.И.О.>
 * Преподаватель: **Шабалин Данила Алексеевич**
 * Tg: @dayp1e
 * Email: [shabalin.danila@gmail.com](mailto:shabalin.danila@gmail.com)
-* GitHub: [danilash](https://github.com/danilsh)
+* GitHub: [danilash](https://github.com/danilash)
