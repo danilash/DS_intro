@@ -43,7 +43,7 @@
 
 1. **Клонируйте репозиторий (один раз):**
    ```bash
-   git clone https://github.com/danilash/DS_intro.git
+   git clone https://github.com/<your-name>/DS_intro.git
    cd DS_intro
 
 2. **Создайте новую ветку для домашнего задания** (имя ветки — понятное):
