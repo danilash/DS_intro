@@ -1,0 +1,1 @@
+### [Форматирование строк в Python](https://habr.com/ru/articles/830282/)
